@@ -1,52 +1,30 @@
-# Project Name
-> Outline a brief description of your project.
+# Lending Club Casestudy
+> Objective of the project is to understand about the drivers of “Default” to quantify the credit risk corresponding to the loan applications. Aiming to minimize the credit loss for the consumer finance company
+
 
 
 ## Table of Contents
-* [General Info](#general-information)
-* [Technologies Used](#technologies-used)
-* [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
+ - Data preprocessing 
+ - Univariate analysis 
+ - Bivariate analysis
+ - Recommendations
 
-<!-- You can include any other section that is pertinent to your problem -->
-
-## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
-## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+## Libary Used
+- pandas -- 2.2.2
+- numpy --1.26.4
+- matplotlib  -- 3.8.4
+- seaborn -- 0.13.2
+- os 
+- time 
+- re
+- warnings
 
 
-## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
-
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
-
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
-
+## Contributors
+- Yoshita Dhanwaria
+- Kasi Viswanadh
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@YoshitaDhanwaria] - feel free to contact me!
 
-
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
-
-<!-- You don't have to include all sections - just the one's relevant to your project -->
+Developed as part of the Exloratory Data Analysis Module required for Post Graduate Diploma in Machine Learning and AI - IIIT,Bangalore
